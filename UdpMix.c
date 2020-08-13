@@ -1,6 +1,5 @@
 /*
-		0-100 Length arası yollar.
-		Scriptin geliştirilmesi tamamen DJ Pizza(BATUHAN CANİK) tarafından yapılmıştır güle güle kullanın.
+		
 */
 #include <unistd.h>
 #include <time.h>
